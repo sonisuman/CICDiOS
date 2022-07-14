@@ -111,7 +111,6 @@
 				77929669668F086EAE2B571B /* Pods-RetirementCalculatorTests.debug.xcconfig */,
 				42597608282F4841833A2845 /* Pods-RetirementCalculatorTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -551,6 +550,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = 5UJB27KNU5;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = RetirementCalculator/Info.plist;
