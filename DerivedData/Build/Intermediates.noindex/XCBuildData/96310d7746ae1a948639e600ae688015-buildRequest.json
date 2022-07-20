@@ -1,0 +1,77 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "8e07a308bce36d342d9d6593cc05e9bfe3be3f09ca11dd155398b506c5b3ae7d"
+    },
+    {
+      "guid" : "8e07a308bce36d342d9d6593cc05e9bf8f178c6b094381848ab8b62b165bca11"
+    },
+    {
+      "guid" : "8e07a308bce36d342d9d6593cc05e9bf4157a33104b96f1d680bff7e24ffccee"
+    }
+  ],
+  "containerPath" : "/Users/sonisuman/Desktop/AppCentreSample/RetirementCalculator/RetirementCalculator.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64e",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.5",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "arm64e"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/sonisuman/Desktop/AppCentreSample/RetirementCalculator/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/sonisuman/Desktop/AppCentreSample/RetirementCalculator/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/sonisuman/Desktop/AppCentreSample/RetirementCalculator/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/sonisuman/Desktop/AppCentreSample/RetirementCalculator/DerivedData/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/sonisuman/Desktop/AppCentreSample/RetirementCalculator/DerivedData/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/sonisuman/Desktop/AppCentreSample/RetirementCalculator/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "SDKROOT" : "iphoneos15.5"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "COLOR_DIAGNOSTICS" : "YES",
+          "diagnostic_message_length" : "80",
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "test",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

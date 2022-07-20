@@ -1,0 +1,2 @@
+dependencies: \
+  /Users/sonisuman/Desktop/AppCentreSample/RetirementCalculator/DerivedData/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-RetirementCalculator-RetirementCalculatorUITests.build/DerivedSources/Pods_RetirementCalculator_RetirementCalculatorUITests_vers.c
