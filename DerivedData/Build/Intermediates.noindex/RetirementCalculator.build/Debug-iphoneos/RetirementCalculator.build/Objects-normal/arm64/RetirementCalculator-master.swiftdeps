@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "2fd6b557b56fa177294ba62b61c2dffe1bfe3d0de996c9cb6b1b45d4ba4e06d9"
+build_start_time: [1658281236, 402150154]
+build_end_time: [1658281248, 245751857]
+inputs:
+  "/Users/sonisuman/Desktop/AppCentreSample/RetirementCalculator/RetirementCalculator/AppDelegate.swift": !private [1658144400, 135549545]
+  "/Users/sonisuman/Desktop/AppCentreSample/RetirementCalculator/RetirementCalculator/SceneDelegate.swift": !private [1657723484, 788774013]
+  "/Users/sonisuman/Desktop/AppCentreSample/RetirementCalculator/RetirementCalculator/ViewController.swift": [1658155886, 775045394]
